@@ -10,7 +10,7 @@ This project analyzes environmental sensor data collected from an Oregon-based N
 - Isolation Forest
 - Time-series feature engineering
 
-## Characteristic Anomaly Patterns
+## Observed Anomaly Patterns
 
 The figure below shows average standardized sensor behavior within ±12 hours of detected anomalies. Three recurring environmental signatures emerge:
 
