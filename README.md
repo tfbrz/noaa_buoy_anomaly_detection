@@ -10,4 +10,12 @@ This project analyzes environmental sensor data collected from an Oregon-based N
 - Isolation Forest
 - Time-series feature engineering
 
+## Characteristic Anomaly Patterns
+
+The figure below shows average standardized sensor behavior within ±12 hours of detected anomalies. Three recurring environmental signatures emerge:
+
+- **Winter Storm:** decreasing pressure with increasing wind speed and wave height  
+- **Remote Swell:** elevated wave heights while atmospheric variables remain stable  
+- **Local Wind Burst:** wind-driven wave increases without significant pressure changes  
+
 ![Anomaly Pattern Signatures](noaa-buoy-anomaly-detection/images/final_plots/mean_categ_anom.png)
