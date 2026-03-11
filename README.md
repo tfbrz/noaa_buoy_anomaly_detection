@@ -9,3 +9,6 @@ This project analyzes environmental sensor data collected from an Oregon-based N
 - DBSCAN clustering
 - Isolation Forest
 - Time-series feature engineering
+
+
+![Anomaly Pattern Signatures](images/mean_categ_anom.png)
