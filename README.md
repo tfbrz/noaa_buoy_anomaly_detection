@@ -10,4 +10,4 @@ This project analyzes environmental sensor data collected from an Oregon-based N
 - Isolation Forest
 - Time-series feature engineering
 
-!(noaa-buoy-anomaly-detection/images/final_plots/mean_categ_anom.png)
+![Anomaly Pattern Signatures](noaa-buoy-anomaly-detection/images/final_plots/mean_categ_anom.png)
