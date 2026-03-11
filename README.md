@@ -1,4 +1,4 @@
-#NOAA Buoy Anomaly Detection
+## NOAA Buoy Anomaly Detection
 Time Series Anomaly Detection on NOAA Buoy Sensor Data
 
 ## Project Overview
